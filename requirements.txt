@@ -1,0 +1,5 @@
+tensorflow
+gradio
+numpy
+pillow
+huggingface_hub
